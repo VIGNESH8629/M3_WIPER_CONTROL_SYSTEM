@@ -1,1 +1,29 @@
+# Aim
+ The wiper serves to clean the windshield of the car at the front. WIper works by removing oil, dust, rainwater, and dirt that get stuck to the windshield.
+ A wiper speed control system for an automotive wiper controls the operational speed of a wiper in accordance with rain conditions.The control signal is applied 
+ to a wiper driver circuit to adjust the operational speed or timing in accordance with the control signal.
+ 
+# Objectives
+the main objectives includes:
+* The main objective is to design and manufacture a new mechanism to cover the complete area of the wind screen.
+* The main purpose of the wiper system is to clean the windscreen sufficiently to provide suitable visibility at all times.
+*  At present, engineers are investigating fully automated systems that vary the speed of the wiper blades according to the rate of the rainfall
+   and the speed of the vehicle.
+* The systemcontains a microcontroller that takes in the input signals from the sensors and controls the operation of the windshield wipers
+  based on those input signals. 
+  
+# Introduction
+ Wiper is an essential component that used to wipe the raindrops or any water from the windscreen. Wipers are designed and made to clear the water from a windscreen.
+ The wiper parts visible from outside the car are the rubber blade, the wiper arm holding theblade, a spring linkage, and parts of the wiper pivots.
+ The wiper itself has about six parts called pressure points or claws that are small arms under the wiper.Existing system manually used control stalk to activate
+ wiper and the process of pulling up wiper and the driver needs to switch on and off the control stalk.
 
+# 4W's and 1H
+# What
+* A windshield wiper system comprises a wiper drive and two wiper arms.
+# when
+ 
+
+
+
+ 
