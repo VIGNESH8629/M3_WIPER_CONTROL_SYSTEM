@@ -1,4 +1,4 @@
-                                                                         #Abstract
+                                                                         #Abstract 
   Windshield wipers play a key role during adverse weather conditions by wiping the rain continuously over the windshield area and provides a clear vision to the driver.
   Wipers are designed and made to clear the water from a windscreen.. It is very important to improve the safety facility in an automobile vehicles .The system used to
   activate the wiper operation manually.Due to this, many researchers have contributed to research and development on smart wind shield wiper mechanism in automotive.
