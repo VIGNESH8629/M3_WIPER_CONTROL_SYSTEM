@@ -8,3 +8,9 @@
   process The automated rain wiper system is used to detect rainfall and activate automobile rain wiper automatically without driver interaction. 
   Finally the purpose of the project to design the winshield wiper control system for safety ness of the peoples to drive car,bus,truck...etc.
   
+# keywords
+  * Wiper Motor
+  * Wiper Arm
+  * Wiper transmission(Linkage)
+  * Wiper Blade
+  
