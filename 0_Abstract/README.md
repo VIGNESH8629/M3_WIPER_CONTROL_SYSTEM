@@ -9,6 +9,8 @@
   Finally the purpose of the project to design the winshield wiper control system for safety ness of the peoples to drive car,bus,truck...etc.
   
 # keywords
+  * STM32F4DISCOVERY board
+  * Microcontroller
   * Wiper Motor
   * Wiper Arm
   * Wiper transmission(Linkage)
