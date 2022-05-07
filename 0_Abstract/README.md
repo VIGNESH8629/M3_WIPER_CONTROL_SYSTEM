@@ -11,7 +11,6 @@
 # keywords
   * STM32F4DISCOVERY board
   * Microcontroller
-  * Wiper Motor
   * Wiper Arm
   * Wiper transmission(Linkage)
   * Wiper Blade
