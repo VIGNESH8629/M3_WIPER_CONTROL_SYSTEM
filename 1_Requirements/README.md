@@ -21,9 +21,22 @@ the main objectives includes:
 # 4W's and 1H
 # What
 * A windshield wiper system comprises a wiper drive and two wiper arms.
-# when
- 
+# When
+* the wiper starts to turn on, the wiper motor will rotate the crank arm and this will make the connecting rods pull and push each other.
+# Where
+* wiper blade is a device used to remove rain,dust particles,snow ice...etc.
+# Who 
+* wiper system is used to clean windscreen sufficiently to provide visibility to drive all the times.
+# How
+* Windshield wipers are operated by an electric motor.The electric motor is attached to a worm gear, which transmits the necessary force to a long rod that sets 
+  the wiper arms in motion.
+# SWOT Analysis
+![Untitled Workspace](https://user-images.githubusercontent.com/101981165/167240315-5ddf75b1-16f5-4411-a7a2-af872253edd9.jpg)
 
+# Requirements
+# Highlevel Requirements
+![Untitled Diagram (2)](https://user-images.githubusercontent.com/101981165/167242746-f5645eb2-40bb-447e-9678-a674ce621008.jpg)
+# Lowlevel Requirements
 
 
  
