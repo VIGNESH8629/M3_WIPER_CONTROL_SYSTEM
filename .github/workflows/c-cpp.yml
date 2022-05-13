@@ -1,4 +1,4 @@
-name: C/C++ Linux
+name: C/C++ Windows
 
 on:
   push:
