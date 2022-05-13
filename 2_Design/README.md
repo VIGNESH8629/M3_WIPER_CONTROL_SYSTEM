@@ -3,9 +3,5 @@
 
 
 # FlowChart
-
-![Untitled Diagram (1)](https://user-images.githubusercontent.com/101981165/167257805-e125bf7a-42f8-46af-871d-20dfd1506e33.jpg)
-
-# State Diagram
-![Untitled Diagram (2)](https://user-images.githubusercontent.com/101981165/167301261-91f3b1ad-1115-4165-bc73-fb114441ef25.jpg)
+![Untitled Diagram (5)](https://user-images.githubusercontent.com/101981165/168276476-9c3c1e42-c1ab-4d90-9dbe-8b2eb6c570cc.jpg)
 
