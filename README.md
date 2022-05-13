@@ -9,5 +9,4 @@
 ![Quality](https://api.codiga.io/project/33394/status/svg)
 
 * CPPCHECK ANALYSIS
-[![C/C++ Windows](https://github.com/VIGNESH8629/M3_WIPER_CONTROL_SYSTEM/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/VIGNESH8629/M3_WIPER_CONTROL_SYSTEM/actions/workflows/c-cpp.yml)
-
+[![C/C++ CI windows](https://github.com/VIGNESH8629/M3_WIPER_CONTROL_SYSTEM/actions/workflows/cppcheck%20-%20Analysis.yml/badge.svg)](https://github.com/VIGNESH8629/M3_WIPER_CONTROL_SYSTEM/actions/workflows/cppcheck%20-%20Analysis.yml)
