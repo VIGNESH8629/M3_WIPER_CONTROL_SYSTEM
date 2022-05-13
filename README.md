@@ -10,3 +10,6 @@
 
 * CPPCHECK ANALYSIS
 [![C/C++ CI windows](https://github.com/VIGNESH8629/M3_WIPER_CONTROL_SYSTEM/actions/workflows/cppcheck%20-%20Analysis.yml/badge.svg)](https://github.com/VIGNESH8629/M3_WIPER_CONTROL_SYSTEM/actions/workflows/cppcheck%20-%20Analysis.yml)
+
+* BUILD LINUX
+ [![C/C++ CI windows](https://github.com/VIGNESH8629/M3_WIPER_CONTROL_SYSTEM/actions/workflows/cppcheck%20-%20Analysis.yml/badge.svg)](https://github.com/VIGNESH8629/M3_WIPER_CONTROL_SYSTEM/actions/workflows/cppcheck%20-%20Analysis.yml)
