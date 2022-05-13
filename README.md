@@ -8,3 +8,4 @@
 * CODIGA - Static Analysis
 ![Quality](https://api.codiga.io/project/33394/status/svg)
 
+[![Build CI-Linux](https://github.com/VIGNESH8629/M3_WIPER_CONTROL_SYSTEM/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/VIGNESH8629/M3_WIPER_CONTROL_SYSTEM/actions/workflows/c-cpp.yml)
